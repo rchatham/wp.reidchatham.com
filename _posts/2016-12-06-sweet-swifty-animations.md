@@ -5,9 +5,9 @@ author: rchatham
 post_excerpt: ""
 layout: post
 permalink: >
-  http://blog.reidchatham.com/2020/08/21/sweet-swifty-animations/
+  http://blog.reidchatham.com/2016/12/06/sweet-swifty-animations/
 published: true
-post_date: 2020-08-21 02:05:25
+post_date: 2016-12-06 02:05:25
 ---
 <h3>Escape the Pyramid of DOOM!</h3>
 <p>“In computer science, a data structure is a particular way of organizing data in a computer so that it can be used efficiently.” — Wikipedia
