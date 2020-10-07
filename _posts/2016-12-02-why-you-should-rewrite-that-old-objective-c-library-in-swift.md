@@ -7,7 +7,7 @@ author: rchatham
 post_excerpt: ""
 layout: post
 permalink: >
-  http://blog.reidchatham.com/2016/12/02/why-you-should-rewrite-that-old-objective-c-library-in-swift/
+  https://blog.reidchatham.com/2016/12/02/why-you-should-rewrite-that-old-objective-c-library-in-swift/
 published: true
 post_date: 2016-12-02 17:13:59
 ---

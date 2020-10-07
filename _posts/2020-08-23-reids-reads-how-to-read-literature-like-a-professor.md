@@ -5,7 +5,7 @@ author: rchatham
 post_excerpt: ""
 layout: post
 permalink: >
-  http://blog.reidchatham.com/2020/08/23/reids-reads-how-to-read-literature-like-a-professor/
+  https://blog.reidchatham.com/2020/08/23/reids-reads-how-to-read-literature-like-a-professor/
 published: true
 post_date: 2020-08-23 16:35:57
 ---

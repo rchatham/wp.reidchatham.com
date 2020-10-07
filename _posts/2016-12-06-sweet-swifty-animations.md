@@ -5,7 +5,7 @@ author: rchatham
 post_excerpt: ""
 layout: post
 permalink: >
-  http://blog.reidchatham.com/2016/12/06/sweet-swifty-animations/
+  https://blog.reidchatham.com/2016/12/06/sweet-swifty-animations/
 published: true
 post_date: 2016-12-06 02:05:25
 ---

@@ -7,7 +7,7 @@ author: rchatham
 post_excerpt: ""
 layout: post
 permalink: >
-  http://blog.reidchatham.com/2016/11/26/a-functional-wrapper-for-apples-multipeerconnectivity-framework/
+  https://blog.reidchatham.com/2016/11/26/a-functional-wrapper-for-apples-multipeerconnectivity-framework/
 published: true
 post_date: 2016-11-26 17:02:00
 ---

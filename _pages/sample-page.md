@@ -4,7 +4,8 @@ post_title: Sample Page
 author: rchatham
 post_excerpt: ""
 layout: page
-permalink: https://blog.reidchatham.com/?page_id=2
+permalink: >
+  https://blog.reidchatham.com/sample-page/
 published: true
 post_date: 2020-08-04 01:51:00
 ---
@@ -25,5 +26,5 @@ post_date: 2020-08-04 01:51:00
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="http://blog.reidchatham.com/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<p>As a new WordPress user, you should go to <a href="Http://blog.reidchatham.com/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
 <!-- /wp:paragraph -->

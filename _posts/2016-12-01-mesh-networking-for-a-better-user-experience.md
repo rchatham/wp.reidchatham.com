@@ -7,7 +7,7 @@ author: rchatham
 post_excerpt: ""
 layout: post
 permalink: >
-  http://blog.reidchatham.com/2016/12/01/mesh-networking-for-a-better-user-experience/
+  https://blog.reidchatham.com/2016/12/01/mesh-networking-for-a-better-user-experience/
 published: true
 post_date: 2016-12-01 17:09:04
 ---
